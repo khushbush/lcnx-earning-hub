@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/lcnx-earning-hub/:/",
+    "/content/lcnx-earning-hub/configuration:/.helix/config.json",
+    "/content/lcnx-earning-hub/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/lcnx-earning-hub/"
   ]
 }
