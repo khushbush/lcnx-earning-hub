@@ -3,8 +3,5 @@
     "/content/lcnx-earning-hub/:/",
     "/content/lcnx-earning-hub/configuration:/.helix/config.json",
     "/content/lcnx-earning-hub/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/lcnx-earning-hub/"
   ]
 }
